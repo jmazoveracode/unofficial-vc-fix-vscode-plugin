@@ -1,5 +1,4 @@
-# unoffical-vc-fix-vscode-plugin
- 
+# Unofficial VC Fix VSCode Plugin
 
 How to use:
 
